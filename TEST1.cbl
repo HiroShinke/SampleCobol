@@ -1,0 +1,7 @@
+xxxxxx IDEINTIFICATION DIVISION.
+xxxxxx PROGRAM-ID: TEST1
+xxxxxx PROCEDURE DIVISION.
+xxxxxx MAIN SECTION.
+xxxxxx      DISPLAY 'HELLO WORLD'.
+xxxxxx MAIN-EXIT.
+xxxxxx      EXIT.
